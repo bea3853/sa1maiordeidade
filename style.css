@@ -1,0 +1,36 @@
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+  *{
+  margin: 5px 10px 0px 10px;
+  padding: 5px;
+  }
+
+  body{
+  font-family: 'Quicksand', sans-serif;
+  }
+  h1{
+    background-color: aqua ;
+      color:blueviolet ;
+  }
+  nav{
+  padding: 5px;
+  }
+  .foto img{
+  width:817px ;
+  height:544px ;
+  }
+  .foto2 img{
+  width:500px ;
+  height:300px ;
+  }
+  a{
+    background-color:cyan ;
+    color:blueviolet ;
+    text-decoration: none;
+  }   
+  footer{
+  height: 80px;
+  background-color:aqua ;
+  color:azure ;
+  }
+
